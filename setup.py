@@ -48,7 +48,7 @@ if "install" in sys.argv:
 
 
 # Dynamically calculate the version based on django.VERSION.
-version = 1.2
+version = 1.3
 
 
 setup(
